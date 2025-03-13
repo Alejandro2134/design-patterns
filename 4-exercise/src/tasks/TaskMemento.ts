@@ -1,4 +1,4 @@
-import { TaskState } from "./types/Types";
+import { TaskState } from "../types/Types";
 
 export class TaskMemento {
   private name: string;

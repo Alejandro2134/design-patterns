@@ -1,8 +1,8 @@
-import { DeleteCommand } from "./DeleteCommand";
-import { CommandInvoker } from "./CommandInvoker";
-import { CompleteCommand } from "./CompleteCommand";
-import { Task } from "./Task";
-import { TaskManager } from "./TaskManager";
+import { DeleteCommand } from "./commands/DeleteCommand";
+import { CommandInvoker } from "./commands/CommandInvoker";
+import { CompleteCommand } from "./commands/CompleteCommand";
+import { Task } from "./tasks/Task";
+import { TaskManager } from "./tasks/TaskManager";
 
 const main = () => {
   const taskManager = new TaskManager();

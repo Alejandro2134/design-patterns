@@ -1,5 +1,5 @@
-import { Command } from "./interface/Command";
-import { Task } from "./Task";
+import { Command } from "../interface/Command";
+import { Task } from "../tasks/Task";
 
 export class CreateCommand implements Command {
   private task: Task;

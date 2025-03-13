@@ -1,5 +1,5 @@
 import { TaskMemento } from "./TaskMemento";
-import { TaskState } from "./types/Types";
+import { TaskState } from "../types/Types";
 
 export class Task {
   private name: string;
