@@ -1,0 +1,21 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "## Clonación de Personajes en un Videojuego de Aventuras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "excercise1": "ts-node-dev --respawn --transpile-only 1-exercise/src/main.ts",
+    "excercise2": "ts-node-dev --respawn --transpile-only 2-exercise/src/main.ts",
+    "excercise3": "ts-node-dev --respawn --transpile-only 3-exercise/src/main.ts",
+    "excercise4": "ts-node-dev --respawn --transpile-only 4-exercise/src/main.ts",
+    "excercise5": "ts-node-dev --respawn --transpile-only 5-exercise/src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.2"
+  }
+}
