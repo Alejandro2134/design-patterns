@@ -1,6 +1,10 @@
+# Install dependencies
+
+`npm i`
+
 # How to run?
 
-`npm run dev`
+`npm run excercise4`
 
 # UML Diagram
 
