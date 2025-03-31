@@ -1,3 +1,7 @@
+# Design pattern used
+
+Memento + Command
+
 # Install dependencies
 
 `npm i`
