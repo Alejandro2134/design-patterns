@@ -1,6 +1,6 @@
 # Design pattern used
 
-Prototype
+Prototype + Factory Method
 
 # Install dependencies
 
