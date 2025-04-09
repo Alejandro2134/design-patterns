@@ -11,4 +11,5 @@ Prototype + Factory Method
 `npm run excercise1`
 
 # UML Diagram
-![Ejercicio 1 drawio (1)](https://github.com/user-attachments/assets/c869290d-ea01-44c8-ab6a-ee2fa9777ee5)
+![Ejercicio 1 drawio](https://github.com/user-attachments/assets/2cb5dfb8-5bb4-4eef-aae6-2d97263f1d57)
+
